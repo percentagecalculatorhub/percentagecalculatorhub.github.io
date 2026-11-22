@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://percentagecalculator.github.io/sitemap.xml
